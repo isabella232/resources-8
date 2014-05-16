@@ -4,7 +4,7 @@
 	<!ENTITY ns_svg "http://www.w3.org/2000/svg">
 	<!ENTITY ns_xlink "http://www.w3.org/1999/xlink">
 ]>
-<svg  version="1.1" id="レイヤー_2" xmlns="&ns_svg;" xmlns:xlink="&ns_xlink;" width="214.228" height="224.82"
+<svg  version="1.1" id="レイヤー_2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="214.228" height="224.82"
 	 viewBox="0 0 214.228 224.82" overflow="visible" enable-background="new 0 0 214.228 224.82" xml:space="preserve">
 <g>
 	<g>
