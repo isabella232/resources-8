@@ -10,9 +10,9 @@
 ソースコードについてはリソース毎に説明します。
 
 * [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)
-* [CC BY-SA 3.0](http://creativecommons.org/licenses/by-sa/3.0/)
+* [CC BY-SA 3.0](https://creativecommons.org/licenses/by-sa/3.0/)
 * [GFDL（バージョンなし、変更不可部分なし、表表紙テキストなし、裏表紙テキストなし）](http://www.gnu.org/copyleft/fdl.html)
-* [LGPL（バージョン2.1またはそれ以降のバージョン）](http://www.gnu.org/licenses/lgpl-2.1.html)
+* [LGPL（バージョン2.1またはそれ以降のバージョン）](https://www.gnu.org/licenses/lgpl-2.1.html)
 
 CC BY-SA 3.0・4.0の「原著作者のクレジット」およびGFDL・LGPLの「著作者」
 の表記は以下のいずれかを使ってください。
